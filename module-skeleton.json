@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-carbon-accounting-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-carbon-accounting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-carbon-accounting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/carbon-accounting.md",
+  "presentationPlan": "projects/accounting/nuxt/carbon-accounting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
